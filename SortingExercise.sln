@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingExercise", "SortingExercise\SortingExercise.csproj", "{A54510F1-FF62-4FFC-9921-15EFF003375C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingExercise.Tests", "SortingExercise.Tests\SortingExercise.Tests.csproj", "{C9413370-D505-4C74-B502-A81B6D5AFE71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A54510F1-FF62-4FFC-9921-15EFF003375C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54510F1-FF62-4FFC-9921-15EFF003375C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54510F1-FF62-4FFC-9921-15EFF003375C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54510F1-FF62-4FFC-9921-15EFF003375C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9413370-D505-4C74-B502-A81B6D5AFE71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9413370-D505-4C74-B502-A81B6D5AFE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9413370-D505-4C74-B502-A81B6D5AFE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9413370-D505-4C74-B502-A81B6D5AFE71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {497555F0-20BE-41C5-9527-FD23C4E6B0C3}
+	EndGlobalSection
+EndGlobal
