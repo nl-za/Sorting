@@ -1,1 +1,2 @@
-# Sorting
+# Sorting exercise
+Author: Niel Langenhoven
